@@ -1,0 +1,8 @@
+{
+  "reminder_interval_seconds": 60,
+  "popup_duration_seconds": 10,
+  "tts_voice": "en-US-JennyNeural",
+  "tts_rate": "+0%",
+  "sound_enabled": true,
+  "startup_enabled": false
+}
